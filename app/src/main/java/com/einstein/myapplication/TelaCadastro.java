@@ -30,7 +30,6 @@ public class TelaCadastro extends AppCompatActivity implements View.OnClickListe
         this.mViewHolder.button = findViewById(R.id.button);
         this.mViewHolder.button.setOnClickListener(this);
 
-
     }
 
     public void cadastrarUsuario(View view){
