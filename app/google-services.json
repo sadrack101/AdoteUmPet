@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969476836129",
+    "project_id": "adoteumpet-db76a",
+    "storage_bucket": "adoteumpet-db76a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969476836129:android:c7ac005fb00ebe44f68c60",
+        "android_client_info": {
+          "package_name": "com.einstein.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969476836129-sqlikmlls47cnfi2ttq8npfms8mqmkkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD29PaB6uZq36OF9nQzJUOUc6Z9m219TKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969476836129-sqlikmlls47cnfi2ttq8npfms8mqmkkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
